@@ -1,6 +1,6 @@
 # mgrep java client
 
-To use mgrep java client, file 'build/libs/mgrepclient-<VERSION>.jar' is enough
+To use mgrep java client, file 'build/libs/mgrepclient-\<VERSION>.jar' is enough
 
 To compile and test mgrepclient java source code, 
 
