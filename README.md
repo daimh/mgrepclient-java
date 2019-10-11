@@ -10,4 +10,4 @@ To compile and test mgrepclient java source code,
 
 3, make sure you have jdk and gradle installed
 
-4, clone https://github.com/daimh/mgrepclient-java and run './gradlew build'
+4, clone https://github.com/daimh/mgrepclient-java and run './gradle build'
